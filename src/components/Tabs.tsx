@@ -71,8 +71,8 @@ export default function BasicTabs() {
       <TabPanel value={value} index={4}>
         Item Five
       </TabPanel>
-      <TabPanel value={value} index={4}>
-        Item Five
+      <TabPanel value={value} index={5}>
+        Item Six
       </TabPanel>
     </Box>
   );
